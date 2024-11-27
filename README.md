@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**ihedbit/ihedbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is Hooman
 
-Here are some ideas to get you started:
+    🔭 Web3 Protocol Architect, Blockchain Researcher, Business development
+    ⛵ Areas of Interest: Ethereum Core Development, Censorship Resistance, DID, Layer 2, DeFi
+    📫 Contact: i.hedbit@gmail.com, Telegram: @ihedbit
+    🌐 Website: hed3.xyz , easyops.xyz
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+🏗️ Current Occupation
+
+    ZApp :
+        💻 Working as a software engineer and blockchain protocol researcher at Zellular, the next generation platform for decentralized applications.
+    Research:
+        💻 I conduct research on restaking platforms and Bitcoin Layer 2 protocols.
+    EasyOps.xyz :
+        💻 Acting as both Product Owner and Operations Architect.
