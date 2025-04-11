@@ -16,4 +16,4 @@ This is **Hooman**
 - WhatsApp: [wa.me](https://wa.me/+971523508696) 
 - Telegram: [@ihedbit](https://t.me/ihedbit)  
 
-🌐 **Website:** [hed3.xyz](https://hed3.xyz)  
+🌐 **Website:** [HedCast](https://hedcast.xyz)  
