@@ -2,7 +2,7 @@
 
 This is **Hooman**  
 
-🔭 **Business Strategist | Blockchain Engineer**  
+🔭 **Blockchain & AI Researcher | Software Engineer | Web3 Product Innovator**  
 
 ⛵ **Areas of Interest:**  
 - Ethereum Core Development  
