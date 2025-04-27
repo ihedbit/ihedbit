@@ -11,9 +11,4 @@ This is **Hooman**
 - IDEAL & White Transactions  
 
 📫 **Contact:**  
-- Email: [i.hedbit@gmail.com](mailto:i.hedbit@gmail.com)
-- Email: [hooman@if3.xyz](mailto:hooman@if3.xyz)
-- WhatsApp: [wa.me](https://wa.me/+971523508696) 
-- Telegram: [@ihedbit](https://t.me/ihedbit)  
-
-🌐 **Website:** [HedCast](https://hedcast.xyz)  
+- Hooman : [HedBit](https://linktr.ee/HedBit)
