@@ -8,7 +8,8 @@ This is **Hooman**
 - Ethereum Core Development  
 - Bitcoin Core Development  
 - Censorship Resistance  
-- IDEAL & White Transactions  
+- IDEAL & White Transactions
+- Blockchain Privacy
 
 📫 **Contact:**  
 - Hooman : [HedBit](https://linktr.ee/HedBit)
